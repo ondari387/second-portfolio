@@ -92,6 +92,14 @@ button:hover {
     padding: 10px 20px !important;
 }
 
+.project-btn>button .btn-primary {
+    color: #ffffff !important;
+    background: #212121 !important;
+    font-weight: 500 !important;
+    padding: 10px 20px !important;
+
+}
+
 .home-social-icons .fa-twitter:hover {}
 
 .home h2 {
